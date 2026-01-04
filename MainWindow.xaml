@@ -209,7 +209,8 @@
         </Style>
     </Window.Resources>
 
-    <Grid Background="#F8F9FA">
+    <!--<Grid Background="#F8F9FA">-->
+        <Grid Background="Red">
         <!-- 主布局 -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
