@@ -210,7 +210,7 @@
     </Window.Resources>
 
     <!--<Grid Background="#F8F9FA">-->
-        <Grid Background="Red">
+        <Grid Background="Black">
         <!-- 主布局 -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
